@@ -4,4 +4,4 @@ const uint8_t font_alfabet[26][14] PROGMEM = {
   {0x80,0x0F,0x80,0x7F,0xFE,0x01,0xFE,0x01,0x80,0x7F,0x80,0x0F,0xFF,0xFF}, // Y
   // ...
 };
-📝 Review Perjalanan Kode"Dari baris-baris Assembly tahun 2013 hingga menjadi sistem modern di tahun 2026. Transisi ke HUB08 P4.75 memberikan tantangan baru dalam hal scanning rate, namun keindahan font 16-bit asli tetap terjaga dengan tajam."— Sindhu Harimukti🛠️ Cara KontribusiJika Anda menemukan bug pada scanning HUB08 atau ingin mengoptimalkan penggunaan memori pada ESP32, silakan ajukan Pull Request.
+📝 Review Perjalanan Kode"Dari baris-baris Assembly tahun 2013 hingga menjadi sistem modern di tahun 2026. Transisi ke HUB08 P4.75 memberikan tantangan baru dalam hal scanning rate, namun keindahan font 16-bit asli tetap terjaga dengan tajam."— Sindhu Hari Mukti🛠️ Cara KontribusiJika Anda menemukan bug pada scanning HUB08 atau ingin mengoptimalkan penggunaan memori pada ESP32, silakan ajukan Pull Request.
