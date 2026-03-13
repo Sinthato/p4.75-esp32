@@ -23,7 +23,7 @@
 #define STR_7SEG 32  
 #define DATA_7SEG 33 
 #define CLK_7SEG 25  
-#define Buzzer 13
+#define Buzzer 26
 
 /**************** VARIABLE KONTROL ****************/
 RTC_DS3231 rtc;
