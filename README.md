@@ -34,7 +34,7 @@ Sistem ini menggunakan ESP32 DevKit V1 sebagai otak utama dengan pembagian jalur
 ## Schematic
 Berikut adalah diagram koneksi lengkap berdasarkan skematik sistem:
 
-![Schematic ESP32 JWS](Schematic_esp32-kontroler_2026-03-14.png)
+![Schematic ESP32 JWS](Schematic_esp32-kontroler.png)
 
 > **Note:** Pastikan menggunakan modul Stepdown LM2596 untuk menyuplai tegangan +5V yang stabil ke panel LED Matrix dan ESP32.
 
